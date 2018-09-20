@@ -13,3 +13,5 @@ function ninjaBabySelector(){
   var out = $('#baby-ninja')
   return out 
 }
+
+function 
