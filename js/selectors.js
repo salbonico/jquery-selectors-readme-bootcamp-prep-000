@@ -14,4 +14,11 @@ function ninjaBabySelector(){
   return out 
 }
 
-function 
+function divSelector(){
+  var out = $('.pics')
+  return out 
+}
+
+function firstListItem(){
+  var out = $('ul #pic-list:first')
+}
