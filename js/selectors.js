@@ -4,4 +4,6 @@ function paragraphSelector(){
   return out
 }
 
-function 
+function lastImageSelector(){
+  var out = $('img:last')
+}
